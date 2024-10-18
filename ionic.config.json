@@ -1,0 +1,7 @@
+{
+  "name": "gestaodespesas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
