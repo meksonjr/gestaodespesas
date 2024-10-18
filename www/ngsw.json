@@ -1,10 +1,10 @@
 {
   "configVersion": 1,
-  "timestamp": 1729261700308,
+  "timestamp": 1729265165221,
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "Despesas",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
@@ -172,7 +172,7 @@
     "/common.442251de59a7b8b9.js": "40dc47b09a01a5d9cf3290e2fa50696bfc0cc0a1",
     "/index.html": "a84fa3bb2837b9af862a347d9d5ea79b5e5bf2fe",
     "/main.6dc9acbd2d4cd4d7.js": "689bf60285078a529e3f21fd34dcee9f4e2d0aaa",
-    "/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
+    "/manifest.webmanifest": "d618bbe281fdd373598ba7163cbc53c8dbc8ca29",
     "/polyfills-core-js.9b17e8c75eeccf74.js": "79c38229b37c1b018dc0427b03319da272d1c3bf",
     "/polyfills-dom.bf542500b6fca113.js": "3fa333db66c8050f12e99d977f5098a6de8dd593",
     "/polyfills.45b15749fa958a1d.js": "8f7a68085cf3b9bab686804366cd6cb9e456dec3",
