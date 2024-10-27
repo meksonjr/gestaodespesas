@@ -42,9 +42,13 @@
   justify-content: center;
   align-items: center;
   margin: 0;
-  background-color: #f0f0f0;
+  // background-color: white;
 }
 
 .moedaCenter {
   text-align: center;
+}
+
+ion-app {
+  --ion-background-color: #f0f0f0;
 }
