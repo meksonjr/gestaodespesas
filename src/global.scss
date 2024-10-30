@@ -42,7 +42,9 @@
   justify-content: center;
   align-items: center;
   margin: 0;
-  // background-color: white;
+  ion-card-title {
+    text-align: center;
+  }
 }
 
 .moedaCenter {
